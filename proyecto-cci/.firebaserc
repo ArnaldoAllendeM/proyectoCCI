@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "proyecto-amigurumi": "proyecto-amigurumi",
+    "default": "proyecto-amigurumi"
+  },
+  "targets": {}
+}
